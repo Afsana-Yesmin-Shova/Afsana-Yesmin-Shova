@@ -40,7 +40,7 @@
 - 🎓 4th Year, BSc in CSE — Uttara University, Bangladesh
 - 🔐 Researching Web Application Security & Penetration Testing
 - 🤖 Exploring Explainable AI (XAI) and Adversarial Machine Learning
-- 🏳️ Vice President, CSE Community, Uttara University
+- 🏳️ Vice President, CSE students association, Uttara University
 - 📚 7+ years of teaching & mentoring experience
 - 🌏 Preparing for a research scholarship in China
 
